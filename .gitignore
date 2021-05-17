@@ -1,5 +1,10 @@
 out/*
 out2/*
 venv/*
-sparse.tif
+centroid.tif
+denoised.tif
+integrated.tif
 sparse-brightness.tif
+sparse.tif
+wavelet_denoised_bayeshrink.tif
+wavelet_denoised_visushrink.tif
